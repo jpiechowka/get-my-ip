@@ -5,7 +5,7 @@ Get my IP is a small utility to fetch your public IP address using https://api.i
 ## How to use
 
 1. Install or build the binary
-2. Then just run `get-my-ip`
+2. Then just run `get-my-ip`. It will print your IP as (example) `123.123.123.123` without any additional output if the API call was successful.
 
 ## Building
 
